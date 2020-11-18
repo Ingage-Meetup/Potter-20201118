@@ -14,6 +14,7 @@ Note that if you buy, say, four books, of which 3 are different titles, you get 
 Your mission is to write a piece of code to calculate the price of any conceivable shopping basket (containing only Harry Potter books), giving as big a discount as possible.
 
 For example, how much does this basket of books cost?
+
     2 copies of the first book 
     2 copies of the second book 
     2 copies of the third book 
